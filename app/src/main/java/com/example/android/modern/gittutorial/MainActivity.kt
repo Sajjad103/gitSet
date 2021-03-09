@@ -25,4 +25,6 @@ class MainActivity : AppCompatActivity() {
 
     fun v1(a:Int) {}
     fun v1(a:String,dis:String) {}
+    fun Changesv1(a:Int) {}
+
 }
