@@ -10,9 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
 
    
-    fun v1(){
-
-    }
 
     fun v1(a:String) {}
     fun v1(a:String,dis:String) {}
