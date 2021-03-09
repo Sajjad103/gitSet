@@ -12,4 +12,6 @@ class MainActivity : AppCompatActivity() {
     fun v1(){
 
     }
+
+    fun v1(a:String) {}
 }
