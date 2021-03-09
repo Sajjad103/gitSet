@@ -18,4 +18,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun v1(a:String) {}
+    fun v1(a:String,d:String) {}
 }
