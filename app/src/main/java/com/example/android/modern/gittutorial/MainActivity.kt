@@ -17,6 +17,10 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun ChangesFeature2(){
+
+    }
+
 
 
     fun v1(a:Int) {}
