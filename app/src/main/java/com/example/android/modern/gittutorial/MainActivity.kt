@@ -9,13 +9,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun feature(){
-
-    }
-
+   
     fun v1(){
 
     }
 
     fun v1(a:String) {}
+    fun v1(a:String,dis:String) {}
 }
