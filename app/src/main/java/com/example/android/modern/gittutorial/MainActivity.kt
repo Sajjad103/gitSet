@@ -13,7 +13,11 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-   
+    fun feature2(){
+
+    }
+
+
 
     fun v1(a:String) {}
     fun v1(a:String,dis:String) {}
